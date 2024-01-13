@@ -20,7 +20,7 @@
 
 html, body {      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-image: url("916612.jpg");
+  background-image: url("afbeeldingen/916612.jpg");
   background-color: #dad2d2;    /* achtergrondkleur lichtgrijs */
   color: #303030;      
   background-size: 2250px;
@@ -77,6 +77,7 @@ img {
   float:right;
   width: 450px;
   color: #fafeff;
+ 
 }
 .item-tekst2 {
   float:left;
@@ -140,7 +141,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #008cb4;
+    background-color: #26525e;
     overflow: hidden;
 }
 
@@ -161,6 +162,6 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: #0e9069;
 }
 
