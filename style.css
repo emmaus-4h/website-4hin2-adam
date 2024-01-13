@@ -20,10 +20,10 @@
 
 html, body {      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-image: url("afbeeldingen/916612.jpg");
+  background-image: url("1920x1440-mobile-audi-light-evolution-A189594.jpg");
   background-color: #dad2d2;    /* achtergrondkleur lichtgrijs */
   color: #303030;      
-  background-size: 2250px;
+  background-size: 1800px;
   width: ;/* tekstkleur donkergrijs */
 }  
 
@@ -85,6 +85,8 @@ img {
   color: #ffffff;
   
 }
+
+
 .item-plaatje2 {
   
 float:right;
@@ -107,10 +109,10 @@ float:right;
   width: 250px;
 height:200px;
   padding-right: 15px;
-
-  
-
 }
+
+
+
 
 /* Indeling voor sub pagina */
 
@@ -146,15 +148,15 @@ nav ul {
 }
 
 nav ul li {
-    float: left;
+    float:left;
 }
 
 nav li a {
     display: block;
-    color: white;
+    color: #ffffff;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration:underline ;
 }
 
 nav li a:hover {
